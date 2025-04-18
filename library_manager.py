@@ -75,5 +75,3 @@ with opt5:
             st.success(f"'{selected_title}' Book has been removed.")
     else:
         st.info("Nothing to remove — your library is empty!")
-
-st.write("")
